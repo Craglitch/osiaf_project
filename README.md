@@ -12,13 +12,14 @@
 
   cd osiaf_project
 
-  pip install -r requirment.txt
+  pip install -r requirments.txt
 
   python3 osiaf.py
 
 # note * 
   
   If you want to add more link or url you can add
+
   
   at url.txt example " https://www.example.com/ "
 
