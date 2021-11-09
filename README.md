@@ -3,7 +3,7 @@ Open Source Infomation Account Finder
 
 # open source infomation account finder
 
-  
+  apt update
   
   apt upgrade
  
@@ -21,12 +21,11 @@ Open Source Infomation Account Finder
 
 # note * 
   
-  If you want to add more link or url you can add
+ If you want to add more link or url you can add
 
-  
-  at url.txt example " https://www.example.com/ "
+ at url.txt example " https://www.example.com/ "
 
-  this tools inspired from homeles project :)
+ this tools inspired from homeles project :)
 
   
 
