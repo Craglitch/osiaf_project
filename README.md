@@ -1,8 +1,9 @@
 # osiaf_project
 Open Source Infomation Account Finder
+
 # open source infomation account finder
 
-  apt update
+  
   
   apt upgrade
  
